@@ -1,5 +1,4 @@
-### DevOps Stack
-
+#### DevOps Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
