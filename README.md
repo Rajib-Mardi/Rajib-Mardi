@@ -3,6 +3,17 @@ Welcome to my GitHub profile! I’m a dedicated DevOps engineer with a solid fou
 Here, you’ll discover a collection of my projects, contributions, and open-source work, showcasing my commitment to innovation and collaboration in the DevOps space. Let’s connect and build something great together!
 
 
+### 🔧 Technologies and Tools
+
+- **Cloud**: AWS
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
+- **Configuration Management**: Ansible, Terraform
+- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Scripting**: Bash, Python
+- **Version Control**: Git, GitHub
+
+
 #### DevOps Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
