@@ -60,4 +60,3 @@ Here, you’ll discover a collection of my projects, contributions, and open-sou
 ###
 
 
-#### Certicication
