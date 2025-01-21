@@ -12,7 +12,7 @@ Here, you’ll discover a collection of my projects, and, showcasing my commitme
 - **Configuration Management**: Ansible, Terraform
 - **Monitoring**: Prometheus, Grafana, ELK Stack
 - **Scripting**: Bash, Python
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, Gitlab
 
 
 #### DevOps Stack
