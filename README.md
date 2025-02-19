@@ -61,8 +61,7 @@ Here, you’ll discover a collection of my projects, and, showcasing my commitme
 ###
 
 ### Certified DevOps Practitioner
-
- [Show Credentials](https://www.credly.com/badges/f7752561-9525-4f55-8c99-646f9dc1c941/linked_in_profile)    
+* [Show Credentials](https://www.credly.com/badges/f7752561-9525-4f55-8c99-646f9dc1c941/linked_in_profile)    
 
 
 
