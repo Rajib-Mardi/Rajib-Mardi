@@ -15,7 +15,7 @@ Here, you’ll discover a collection of my projects, and, showcasing my commitme
 - **Version Control**: Git, GitHub, Gitlab
 
 
-#### DevOps Stack
+### DevOps Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
@@ -60,7 +60,7 @@ Here, you’ll discover a collection of my projects, and, showcasing my commitme
 
 ###
 
-#### Certified DevOps Practitioner [Show Credentials](https://www.credly.com/badges/f7752561-9525-4f55-8c99-646f9dc1c941/linked_in_profile)    
+### Certified DevOps Practitioner [Show Credentials](https://www.credly.com/badges/f7752561-9525-4f55-8c99-646f9dc1c941/linked_in_profile)    
 
 
 
